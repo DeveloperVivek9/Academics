@@ -1,0 +1,3 @@
+new data entry getting details altered except name when read from file after appending.
+initail number of students altering subjects being printed out after being read from file#solved
+segmentation fault after writing to file for new entry#solved
